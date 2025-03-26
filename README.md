@@ -16,4 +16,5 @@ ZeroFin надає:
 Проєкт має стильний, інтуїтивно зрозумілий інтерфейс, створений за допомогою Figma.
 
 **Дизайн прототипу:**: [Посилання на Figma](https://www.figma.com/design/0ctL92uT3ZyKbJE2nylNE5/ZeroFin?node-id=0-1&t=aTj7MzHhT5OMTu1W-1)
+
 **Діскорд сервер запису віде:**: [Посилання на Discord](https://discord.com/invite/myt4ENEt5k)
