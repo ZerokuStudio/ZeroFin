@@ -20,4 +20,4 @@ ZeroFin надає:
 
 Проєкт має стильний, інтуїтивно зрозумілий інтерфейс, створений за допомогою Figma.
 
-**Дизайн прототипу**: [Посилання на Figma](https://www.figma.com/file/examplelink)
+**Дизайн прототипу**: [Посилання на Figma](https://www.figma.com/design/0ctL92uT3ZyKbJE2nylNE5/ZeroFin?node-id=0-1&p=f&t=DcXfZnauEBjxUAbR-0)
